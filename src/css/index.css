@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+    color: red;
+}
+#tupian{
+    background-image: url(../images/manhua.png);
+    width: 300px;
+    height: 300px;
+    transform: rotate(45deg);
+}
+#aaaa{
+    width: 300px;
+    height: 300px;
+}
